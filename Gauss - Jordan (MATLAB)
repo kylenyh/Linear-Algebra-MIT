@@ -1,4 +1,4 @@
-% Gauss-Jordan elimination method to get matrix inverse 
+e% Gauss-Jordan elimination method to get matrix inverse 
 % Matrix inverese --> [A|I] = [I|A^-1]
 
 % Define the original matrix A
